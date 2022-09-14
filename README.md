@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiinYa
-- 👀 I’m interested in Hololive
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me Valerie#1816
+- 👀 I’m interested Machine Learning
+- 🌱 I’m currently learning Python, GO Language, C++
+- 📫 How to reach me Valerie#1816(Discord)
 
 <!---
 NiinYa/NiinYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
