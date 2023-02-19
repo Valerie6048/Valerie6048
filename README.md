@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiinYa
 - 👀 I’m interested Machine Learning
-- 🌱 I’m currently learning Python, GO Language, C++
+- 🌱 I’m currently learning Python, GO Language, C++, JavaScript
 - 📫 How to reach me Valerie#1816(Discord)
 
 <!---
