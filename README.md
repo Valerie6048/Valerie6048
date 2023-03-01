@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiinYa
+- 👋 Hi, I’m @Valerie
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, GO Language, C++, JavaScript
 - 📫 How to reach me Valerie#1816(Discord)
