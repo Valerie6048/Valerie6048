@@ -12,6 +12,6 @@
 </p>
 
 <!---
-Valerie6048/Valerie6048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Valerie6048/NiinYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
