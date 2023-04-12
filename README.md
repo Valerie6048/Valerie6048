@@ -6,7 +6,7 @@
 ### Github Statistic
 
 
-://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!---
 Valerie6048/NiinYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
