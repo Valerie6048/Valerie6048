@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/vale6048" target="blank"><img src="https://img.shields.io/twitter/follow/vale6048?logo=twitter&style=for-the-badge" alt="vale6048" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valerie6048" alt="valerie6048" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/vale6048" target="blank"><img src="https://img.shields.io/twitter/follow/vale6048?logo=twitter&style=for-the-badge" alt="vale6048" /></a> </p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
