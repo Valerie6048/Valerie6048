@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/vale6048" target="blank"><img src="https://img.shields.io/twitter/follow/vale6048?logo=twitter&style=for-the-badge" alt="vale6048" /></a> </p>
 
-<p align="left">
-<a href="https://twitter.com/vale6048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vale6048" height="30" width="40" /></a>
-</p>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
