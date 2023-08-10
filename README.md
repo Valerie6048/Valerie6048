@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Valerie
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python, GO Language, C++, JavaScript
-- 📫 How to reach me Valerie#1816(Discord)
+<h1 align="center">Hi 👋, I'm Akhmad Nizar Zakaria</h1>
+<h3 align="center">A passionate Student from Malang, Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+
+- 👀 I’m interested in **Machine Learning**
+- 🌱 I’m currently learning **Python, GO Language, C++, JavaScript**
+- 📫 How to reach me **valerie6048(Discord)**
 
 <p align="left"> <a href="https://twitter.com/vale6048" target="blank"><img src="https://img.shields.io/twitter/follow/vale6048?logo=twitter&style=for-the-badge" alt="vale6048" /></a> </p>
 
@@ -16,6 +19,11 @@
 ![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<div align="left">
+  <a href="https://github.com/Valerie6048">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+</div>
 
 <!---
 Valerie6048/NiinYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
