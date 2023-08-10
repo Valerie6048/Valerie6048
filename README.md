@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Valerie6048&label=Profile%20views&color=0e75b6&style=flat" alt="Valerie6048" /> </p>
 
+- 🔭 I’m currently studying on **Brawijaya Univeristy Mlaang**
 - 👀 I’m interested in **Machine Learning**
 - 🌱 I’m currently learning **Python, GO Language, C++, JavaScript**
 - 📫 How to reach me **valerie6048(Discord)**
