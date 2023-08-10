@@ -16,18 +16,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
 # 
 ### Github Statistic
 
-![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<div align="left">
+  <a href="https://github.com/Valerie6048">
+    <img src="https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+    <img src="https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
+</div>
 
 <div align="left">
   <a href="https://github.com/Valerie6048">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=github-dark-blue&border_radius=4.9&mode=weekly" alt="Valerie6048" />
 </div>
 
 <!---
@@ -53,5 +54,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Valerie6048&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+
 
 --->
