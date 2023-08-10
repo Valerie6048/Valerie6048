@@ -19,16 +19,20 @@
 # 
 ### Github Statistic
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Valerie6048">
     <img src="https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
     <img src="https://raw.githubusercontent.com/Valerie6048/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Valerie6048">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=github-dark-blue&border_radius=4.9&mode=weekly" alt="Valerie6048" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>  
+</div>
+    
+<div align="center">
+  <a href="https://github.com/Valerie6048">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=github-dark-blue&border_radius=4.9&mode=weekly&card_width=1000" alt="Valerie6048" />
 </div>
 
 <!---
