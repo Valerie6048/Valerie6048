@@ -30,12 +30,14 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=tokyonight"/>  
 </div>
     
-<div align="center">
-  <a href="https://github.com/Valerie6048">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=github-dark-blue&border_radius=4.9&mode=weekly&card_width=1000" alt="Valerie6048" />
-</div>
+
 
 <!---
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+
 Valerie6048/NiinYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
