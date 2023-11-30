@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Python, GO Language, C++, JavaScript**
 - 📫 How to reach me **valerie6048(Discord)**
 
+
 <p align="left"> <a href="https://twitter.com/vale6048" target="blank"><img src="https://img.shields.io/twitter/follow/vale6048?logo=twitter&style=for-the-badge" alt="vale6048" /></a> </p>
 
 </p>
@@ -28,8 +29,10 @@
 <div align="center">
   <a href="https://github.com/Valerie6048">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=tokyonight"/>  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Valerie6048&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
-    
 
 
 <!---
