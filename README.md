@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Student from Malang, Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="OIG.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Valerie6048&label=Profile%20views&color=0e75b6&style=flat" alt="Valerie6048" /> </p>
-
 - 🔭 I’m currently studying on **Brawijaya University Malang**
 - 👀 I’m interested in **Machine Learning, Data Science, and Data Analysis**
 - 🌱 I’m currently learning **Python, C, C++**
@@ -41,6 +39,8 @@
 
 
 <!---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Valerie6048&label=Profile%20views&color=0e75b6&style=flat" alt="Valerie6048" /> </p>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
