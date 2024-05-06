@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhmad Nizar Zakaria</h1>
+<h1 align="center">Hi 👋, I'm Nizar</h1>
 <h3 align="center">A passionate Student from Malang, Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="OIG.jpeg">
 
