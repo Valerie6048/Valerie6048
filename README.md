@@ -32,13 +32,15 @@
   <a href="https://github.com/Valerie6048">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Valerie6048&show_icons=true&theme=tokyonight"/>  
 
+
+
+
+<!---
+
 <div align="center">
   <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Valerie6048&theme=nordfox&hide_border=true&mode=weekly&card_width=700&type=png" alt="GitHub Streak" /></a>
 </div>
-
-
-<!---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Valerie6048&label=Profile%20views&color=0e75b6&style=flat" alt="Valerie6048" /> </p>
 
